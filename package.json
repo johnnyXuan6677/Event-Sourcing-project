@@ -1,0 +1,26 @@
+{
+  "name": "etherhomework3",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "devstart": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "eventstore": "^1.15.2",
+    "express": "^4.17.1",
+    "http-errors": "~1.6.2",
+    "jade": "^1.11.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.9.1",
+    "morgan": "~1.9.0",
+    "mosca": "^2.8.3",
+    "mysql": "^2.18.1",
+    "web3": "^1.0.0-beta.37"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
