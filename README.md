@@ -52,7 +52,6 @@ $ ganache-cli --blockTime 5
 
 - [http://localhost:3000/](http://localhost:3000/)
 
-類似如下畫面
 
 ![](https://cl.ly/d49ab1f90e61/Image%2525202019-12-03%252520at%25252011.19.36%252520PM.png)
 
