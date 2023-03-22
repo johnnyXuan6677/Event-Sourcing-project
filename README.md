@@ -26,7 +26,7 @@ $ nvm use v8
 
 ## 02. 模板安裝
 
-- 下載 [hw3 檔案](https://drive.google.com/open?id=1akGmYM_4RbfAxbJX5_7Cpkj13U4-l84I)
+- 下載 [檔案](https://drive.google.com/open?id=1akGmYM_4RbfAxbJX5_7Cpkj13U4-l84I)
 
 解壓縮後, 進到
 
