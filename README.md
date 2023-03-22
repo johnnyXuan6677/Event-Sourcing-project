@@ -1,4 +1,4 @@
-# HW3
+# Event-Sourcing-Project
 
 ## 01. 環境準備
 
