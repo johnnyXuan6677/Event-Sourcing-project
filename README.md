@@ -56,15 +56,15 @@ $ ganache-cli --blockTime 5
 
 ![](https://cl.ly/d49ab1f90e61/Image%2525202019-12-03%252520at%25252011.19.36%252520PM.png)
 
-## 05. 完成功能
+## 05. 功能
 
 - public/index.html (前端頁面)
 - routes/index.js (路由請求)
 - public/javascripts/index.js (後端處理)
 
 
-1. 完成 Coin 餘額取得與顯示
-2. 完成以下功能(輸入欄位 / http request)
+1. Coin 餘額取得與顯示
+2. 以下功能完成(輸入欄位 / http request)
 	- 取得 Owner  (request method: GET)
 	- 轉移 Owner  (request method: POST)
 	- 鑄幣 Coin   (request method: POST)
